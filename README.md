@@ -383,6 +383,7 @@ Document title: *CE237028* – *EZ-PD&trade; PMG1B1 MCU: USBPD sink*
  Version | Description of change
  ------- | ---------------------
  1.0.0   | New code example
+ 1.1.0   | Locked to cat-2 PDL 2.15.0
 
 <br />
 
